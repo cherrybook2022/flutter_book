@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Chapter09/flutter_amplify_auth01/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Chapter09/flutter_amplify_auth01/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Chapter09/flutter_amplify_auth01/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Chapter09/kakao_login_sample/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Chapter09/kakao_login_sample/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Chapter09/kakao_login_sample/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Chapter05/twosome_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Chapter05/twosome_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Chapter05/twosome_example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Chapter05/recipe_sample/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Chapter05/recipe_sample/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Chapter05/recipe_sample/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Chapter07/cgv_clone/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Chapter07/cgv_clone/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Chapter07/cgv_clone/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
