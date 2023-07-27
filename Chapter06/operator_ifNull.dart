@@ -10,7 +10,7 @@ void main() {
   print(stringLength(nullableString));     // ⑤
 
   String? nullString;
-  print(nullString);                       // ⑥
+  print(nullString?.length);               // ⑥
   int len =  stringLength2(nullString)!;   // ③ !   not-null 확신 연산자
   print('$nullString (length:$len)');
 }
