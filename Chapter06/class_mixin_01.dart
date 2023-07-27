@@ -1,10 +1,10 @@
-class Classic {
+mixin Classic {
   canClassic() {
     print('can do classic');
   }
 }
 
-class Musical {
+mixin Musical {
   canMusical() {
     print('can do musical');
   }
